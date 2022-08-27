@@ -12,7 +12,7 @@ export default function Auth() {
   <div className="background">
   <div className="auth-container">
     <form className="auth-form" onSubmit={e => e.preventDefault()}>
-    <div className="auth-title">NextJS Chat</div>
+    <div className="auth-title"> Chat Messenger </div>
     
       <div className="input-container">
         <input
