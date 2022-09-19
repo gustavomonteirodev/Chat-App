@@ -4,7 +4,7 @@ I built a Web Chat using Nextjs, React Context, Routing and API request with Axi
 ## Technologies ⚛️
 - Nextjs;
 - API Rest - Axios; 
-- Css; 
+- Pure Css; 
 - React Context; 
 
 ## Live Demo 🖥️
